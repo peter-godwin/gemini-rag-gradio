@@ -1,0 +1,13 @@
+# Python bytecode 
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venvn/
+
+# Local databases and caches
+chroma_db/
+
+
+.env
